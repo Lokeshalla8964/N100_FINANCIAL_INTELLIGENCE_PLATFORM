@@ -11,6 +11,12 @@ from reports.report_generator import generate_report
 from reports.charts import sales_profit_chart
 from reports.growth_chart import revenue_growth_chart
 from reports.profit_chart import profit_distribution
+from screener.engine import screen_companies
+from export.excel_export import export_screener
+from analytics.peer import calculate_peer_rank
+from reports.radar_chart import radar_chart
+from export.peer_export import export_peer_comparison
+
 
 from config.config import (
     ANALYSIS_FILE,
@@ -25,7 +31,7 @@ from config.config import (
 analysis = pd.read_excel(ANALYSIS_FILE)
 balance_sheet = pd.read_excel(BALANCE_SHEET_FILE)
 cashflow = pd.read_excel(CASHFLOW_FILE)
-companies = pd.read_excel(COMPANIES_FILE)
+companies = pd.read_excel(COMPANIES_FILE, header=1)
 documents = pd.read_excel(DOCUMENTS_FILE)
 profit_loss = pd.read_excel(PROFIT_LOSS_FILE, header=1)
 pros_cons = pd.read_excel(PROS_CONS_FILE)
@@ -140,3 +146,13 @@ sales_profit_chart(sales, net_profit)
 revenue_growth_chart(start_revenue, end_revenue)
 
 profit_distribution(net_profit, operating_profit)
+
+screen_companies(companies)
+
+export_screener(companies)
+
+calculate_peer_rank(companies)
+
+radar_chart(companies, "Abbott India Ltd")
+
+export_peer_comparison(companies)
