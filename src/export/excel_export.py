@@ -77,3 +77,10 @@ def export_screener(df):
     sheet_name="All Companies",
     index=False
         )
+if __name__ == "__main__":
+    import pandas as pd
+
+    # use the dataframe you already want to export
+    df = pd.read_excel("output/screener_output.xlsx")
+
+    export_screener(df)

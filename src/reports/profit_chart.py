@@ -12,4 +12,13 @@ def profit_distribution(net_profit, operating_profit):
 
     plt.title("Profit Distribution")
 
+    plt.savefig("output/profit_distribution.png")
+    print("Chart saved successfully")
+
     plt.show()
+
+    if __name__ == "__main__":
+        profit_distribution(
+            net_profit=4200,
+            operating_profit=6500
+        )
