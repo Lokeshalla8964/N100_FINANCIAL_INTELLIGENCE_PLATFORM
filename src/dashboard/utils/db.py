@@ -1,3 +1,4 @@
+print("DB.PY LOADED")
 import pandas as pd
 from pathlib import Path
 
@@ -29,3 +30,6 @@ def get_pros_cons():
 
 def get_documents():
     return load_excel("documents.xlsx")
+
+def get_sectors():
+    return pd.read_excel(DATA_PATH / "sectors.xlsx")

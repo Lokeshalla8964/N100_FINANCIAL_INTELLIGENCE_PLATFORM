@@ -1,24 +1,23 @@
 import streamlit as st
+import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
-from utils.db import get_companies
+st.title("📊 Sector Analysis")
 
-st.title("🏭 Sector Analysis")
+DATA_PATH = Path(__file__).resolve().parents[3] / "data" / "raw"
 
-companies = get_companies()
-
-if "sector" not in companies.columns:
-    companies["sector"] = "Unknown"
+sectors = pd.read_excel(DATA_PATH / "sectors.xlsx")
 
 sector_count = (
-    companies.groupby("sector")
+    sectors.groupby("broad_sector")
     .size()
     .reset_index(name="Companies")
 )
 
 fig = px.pie(
     sector_count,
-    names="sector",
+    names="broad_sector",
     values="Companies",
     title="Companies by Sector"
 )
