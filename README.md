@@ -5,7 +5,7 @@
 ![Home](screenshots/Home.png)
 
 ### Peer Comparison
-![Peers](screenshots/Peers.png)
+![Peers](screenshots/peers.png)
 
 ### Financial Reports
 ![Reports](screenshots/Reports.png)
