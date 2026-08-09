@@ -2,13 +2,13 @@
 ## Screenshots
 
 ### Home
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Peer Comparison
-![Peers](screenshots/peers.png)
+![Peers](screenshots/Peers.png)
 
 ### Financial Reports
-![Reports](screenshots/reports.png)
+![Reports](screenshots/Reports.png)
 
 ### Capital Allocation
-![Capital](screenshots/capital.png)
+![Capital](screenshots/Capital.png)
