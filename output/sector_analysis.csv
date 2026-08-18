@@ -1,0 +1,11 @@
+sector,company_count,net_profit_margin,operating_profit_margin,sector_rating,sector_score,sector_rank
+Financials,23,39.26,56.62,Not Available,47.94,1
+Real Estate,2,28.72,29.44,Not Available,29.08,2
+Communication Services,2,14.58,40.12,Not Available,27.35,3
+Healthcare,6,16.1,33.81,Not Available,24.96,4
+Energy,14,16.02,33.6,Not Available,24.81,5
+Consumer Staples,7,13.34,30.2,Not Available,21.77,6
+Materials,9,10.92,31.76,Not Available,21.34,7
+Consumer Discretionary,14,11.5,25.54,Not Available,18.52,8
+Industrials,10,13.38,21.33,Not Available,17.36,9
+Information Technology,5,13.61,19.81,Not Available,16.71,10

@@ -1,0 +1,94 @@
+company_id,company_name,roe_percentage,roce_percentage,roe_rank,roce_rank,peer_score,peer_rank
+NESTLEIND,Nestle India Ltd,135.61,185.43,100.0,100.0,100.0,1
+LICI,Life Insurance Corporation of India,63.61,63.79,98.9,96.7,97.8,2
+COALINDIA,Coal India Ltd,52.0,63.6,95.6,95.6,95.6,3
+BRITANNIA,Britannia Industries Ltd,57.1,48.9,97.25,93.41,95.33,4
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,40.4,53.8,92.31,94.51,93.41,5
+ABB,Abbott India Ltd,34.9,46.0,91.21,92.31,91.76,6
+ADANIPOWER,Adani Power Ltd,57.1,32.2,97.25,83.52,90.38,7
+INFY,Infosys Ltd,31.8,40.0,89.01,90.11,89.56,8
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",31.45,41.75,87.91,91.21,89.56,8
+BPCL,Bharat Petroleum Corporation Ltd,41.9,32.1,93.41,82.42,87.92,10
+ITC,ITC Ltd,29.47,34.76,86.81,87.91,87.36,11
+HAL,Hindustan Aeronautics Ltd,28.9,38.9,85.71,89.01,87.36,11
+BEL,Bharat Electronics Ltd,26.3,34.6,82.42,86.81,84.62,13
+BAJAJ-AUTO,Bajaj Auto Ltd,26.5,33.5,83.52,84.62,84.07,14
+LTIM,LTIMindtree Ltd,26.04,34.1,81.32,85.71,83.51,15
+EICHERMOT,Eicher Motors Ltd,24.2,31.1,78.57,81.32,79.94,16
+HCLTECH,HCL Technologies Ltd,23.3,29.6,76.92,79.12,78.02,17
+PIDILITIND,Pidilite Industries Ltd,22.8,29.7,75.82,80.22,78.02,17
+TITAN,Titan Company Ltd,32.9,22.7,90.11,64.84,77.47,19
+TRENT,Trent Ltd,27.2,23.8,84.62,69.23,76.93,20
+TATAMOTORS,Tata Motors Ltd,49.4,20.1,94.51,57.14,75.82,21
+HEROMOTOCO,Hero MotoCorp Ltd,22.0,29.1,72.53,78.02,75.28,22
+DRREDDY,Dr Reddys Laboratories Ltd,21.4,26.5,71.43,74.73,73.08,23
+TORNTPHARM,Torrent Pharmaceuticals Ltd,24.2,23.2,78.57,67.03,72.8,24
+HINDUNILVR,Hindustan Unilever Ltd,20.2,27.2,68.68,76.92,72.8,24
+IOC,Indian Oil Corporation,25.44,21.31,80.22,61.54,70.88,26
+ADANIGREEN,Adani Green Energy Ltd,14.7,96.5,40.66,98.9,69.78,27
+SIEMENS,Siemens Ltd,19.1,25.6,64.84,72.53,68.68,28
+M&M,Mahindra & Mahindra Ltd,17.99,26.98,58.24,75.82,67.03,29
+ATGL,Adani Total Gas Ltd,20.5,21.2,70.33,60.44,65.38,30
+HAVELLS,Havells India Ltd,18.0,24.4,59.34,70.33,64.84,31
+DABUR,Dabur India Ltd,19.2,22.3,65.93,62.64,64.28,32
+INDIGO,Interglobe Aviation Ltd,16.7,24.5,50.55,71.43,60.99,33
+CIPLA,Cipla Ltd,16.8,22.8,52.75,65.93,59.34,34
+ICICIGI,ICICI Lombard General Insurance Company Ltd,17.0,22.5,53.85,63.74,58.8,35
+MARUTI,Maruti Suzuki India Ltd,15.75,23.67,46.15,68.13,57.14,36
+BAJFINANCE,Bajaj Finance Ltd,22.1,11.9,73.63,36.81,55.22,37
+POWERGRID,Power Grid Corporation of India Ltd,19.0,13.2,63.74,43.96,53.85,38
+BOSCHLTD,Bosch Ltd,16.0,20.6,48.35,58.24,53.3,39
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,16.7,17.3,50.55,53.85,52.2,40
+RECLTD,REC Ltd,22.2,10.0,74.73,26.37,50.55,41
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,18.1,12.9,60.44,39.56,50.0,42
+TCS,Tata Consultancy Services Ltd,0.52,64.3,1.1,97.8,49.45,43
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,20.2,10.4,68.68,27.47,48.08,44
+DMART,Avenue Supermarts Ltd,14.5,19.4,39.56,54.95,47.26,45
+ONGC,Oil & Natural Gas Corpn Ltd,14.32,19.71,38.46,56.04,47.25,46
+PFC,Power Finance Corporation Ltd,19.49,9.96,67.03,25.27,46.15,47
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",13.81,17.2,35.16,52.75,43.96,48
+BAJAJFINSV,Bajaj Finserv Ltd,11.72,21.14,26.37,59.34,42.86,49
+GAIL,GAIL (India) Ltd,14.0,14.7,36.26,48.35,42.3,50
+BHARTIARTL,Bharti Airtel Ltd,14.9,13.1,42.86,41.21,42.04,51
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,14.8,13.1,41.76,41.21,41.48,52
+JINDALSTEL,Jindal Steel & Power Ltd,14.1,13.2,37.36,43.96,40.66,53
+SHRIRAMFIN,Shriram Finance Ltd,15.9,11.3,47.25,33.52,40.39,54
+DIVISLAB,Divis Laboratories Ltd,12.2,16.5,30.22,50.55,40.38,55
+GODREJCP,Godrej Consumer Products Ltd,6.77,26.49,6.59,73.63,40.11,56
+SHREECEM,Shree Cement Ltd,12.2,14.8,30.22,49.45,39.84,57
+ICICIBANK,ICICI Bank Ltd,18.8,7.6,62.64,14.29,38.47,58
+AXISBANK,Axis Bank Ltd,18.4,7.06,61.54,13.19,37.36,59
+MOTHERSON,Samvardhana Motherson International Ltd,11.8,13.7,27.47,47.25,37.36,59
+SBILIFE,SBI Life Insurance Company Ltd,12.0,13.2,28.57,43.96,36.26,61
+LT,Larsen & Toubro Ltd,10.49,17.18,20.88,51.65,36.26,61
+JSWSTEEL,JSW Steel Ltd,11.66,13.36,25.27,46.15,35.71,63
+HDFCBANK,HDFC Bank Ltd,17.1,7.67,54.95,15.93,35.44,64
+CANBK,Canara Bank,17.9,6.63,57.14,10.99,34.06,65
+ADANIENT,Adani Enterprises Ltd,13.64,11.6,32.97,35.16,34.06,65
+SBIN,State Bank of India,17.3,6.16,56.04,7.69,31.86,67
+INDUSINDBK,IndusInd Bank Ltd,15.2,7.93,45.05,18.68,31.86,67
+KOTAKBANK,Kotak Mahindra Bank Ltd,15.1,7.86,43.96,17.58,30.77,69
+NTPC,NTPC Ltd,12.52,10.58,31.87,28.57,30.22,70
+BANKBARODA,Bank of Baroda,16.7,6.33,50.55,8.79,29.67,71
+AMBUJACEM,Ambuja Cements Ltd,9.24,12.8,16.48,38.46,27.47,72
+TATAPOWER,Tata Power Company Ltd,11.3,11.1,23.08,31.32,27.2,73
+LODHA,Macrotech Developers Ltd,10.7,11.1,21.98,31.32,26.65,74
+HINDALCO,Hindalco Industries Ltd,10.2,11.3,19.78,33.52,26.65,74
+TECHM,Tech Mahindra Ltd,8.63,11.9,14.29,36.81,25.55,76
+RELIANCE,Reliance Industries Ltd,9.25,9.61,17.58,24.18,20.88,77
+TATACONSUM,Tata Consumer Products Ltd,8.32,10.6,10.99,29.67,20.33,78
+IRFC,Indian Railway Finance Corporation Ltd,13.7,5.73,34.07,5.49,19.78,79
+ADANIENSOL,Adani Energy Solutions Ltd,8.59,9.0,13.19,21.98,17.58,80
+NHPC,NHPC Ltd,9.61,7.67,18.68,15.93,17.3,81
+HDFCLIFE,HDFC Life Insurance Company Ltd,11.4,6.61,24.18,9.89,17.04,82
+JSWENERGY,JSW Energy Ltd,8.4,8.59,12.09,19.78,15.94,83
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,8.07,8.75,9.89,20.88,15.38,84
+GRASIM,Grasim Industries Ltd,6.9,9.3,7.69,23.08,15.38,84
+TATASTEEL,Tata Steel Ltd,6.55,7.02,5.49,12.09,8.79,86
+PNB,Punjab National Bank,8.7,1.63,15.38,1.1,8.24,87
+DLF,DLF Ltd,6.95,5.74,8.79,6.59,7.69,88
+NAUKRI,Info Edge (India) Ltd,2.44,3.65,4.4,4.4,4.4,89
+JIOFIN,Jio Financial Services Ltd,1.82,2.16,3.3,2.2,2.75,90
+BHEL,Bharat Heavy Electricals Limited,1.05,3.28,2.2,3.3,2.75,90

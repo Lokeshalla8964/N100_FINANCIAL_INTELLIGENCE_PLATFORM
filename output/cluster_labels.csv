@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,1,Defensive Dividend Payers,0.8810544438319947
+ADANIENSOL,1,Defensive Dividend Payers,0.6783134365958357
+ADANIENT,1,Defensive Dividend Payers,0.4600677287935768
+ADANIGREEN,0,High-Quality Compounders,0.9170852342662108
+ADANIPORTS,0,High-Quality Compounders,1.4878740699785011
+ADANIPOWER,1,Defensive Dividend Payers,0.9037169536381496
+AMBUJACEM,1,Defensive Dividend Payers,0.24254742875698002
+APOLLOHOSP,1,Defensive Dividend Payers,0.2932530447999203
+ASIANPAINT,1,Defensive Dividend Payers,0.31057294256610946
+ATGL,1,Defensive Dividend Payers,0.20457130708455468
+AXISBANK,0,High-Quality Compounders,1.8780141142863904
+BAJAJ-AUTO,1,Defensive Dividend Payers,0.4916675441759162
+BAJAJFINSV,0,High-Quality Compounders,1.1731501065713705
+BAJAJHLDNG,0,High-Quality Compounders,1.7825723528321924
+BAJFINANCE,1,Defensive Dividend Payers,1.162943353436563
+BANKBARODA,0,High-Quality Compounders,3.006565733292302
+BEL,4,Emerging Growth,0.747645237767006
+BHARTIARTL,0,High-Quality Compounders,0.8422528278954899
+BHEL,1,Defensive Dividend Payers,0.6329956118939306
+BOSCHLTD,1,Defensive Dividend Payers,0.7633353193720243
+BPCL,1,Defensive Dividend Payers,0.3715193434172473
+BRITANNIA,1,Defensive Dividend Payers,1.6380527242764196
+CANBK,0,High-Quality Compounders,3.926237683071912
+CHOLAFIN,0,High-Quality Compounders,1.7467715348194985
+CIPLA,3,Distressed or Turnaround,0.0
+COALINDIA,0,High-Quality Compounders,1.4874742475444473
+DABUR,1,Defensive Dividend Payers,0.7832130720645469
+DIVISLAB,1,Defensive Dividend Payers,0.7511226023865757
+DLF,1,Defensive Dividend Payers,0.9938928131434558
+DMART,1,Defensive Dividend Payers,0.4926251931829314
+DRREDDY,1,Defensive Dividend Payers,1.293227698051919
+EICHERMOT,1,Defensive Dividend Payers,0.5244151778145661
+GAIL,1,Defensive Dividend Payers,0.3742541334618632
+GODREJCP,1,Defensive Dividend Payers,0.16965777971159965
+GRASIM,1,Defensive Dividend Payers,0.310289302391675
+HAL,4,Emerging Growth,0.7476452377670154
+HAVELLS,1,Defensive Dividend Payers,0.9495509863040473
+HCLTECH,1,Defensive Dividend Payers,0.45355529466319316
+HDFCBANK,0,High-Quality Compounders,0.9375435258803535
+HDFCLIFE,0,High-Quality Compounders,1.8707021274459323
+HEROMOTOCO,0,High-Quality Compounders,1.6527884278202811
+HINDALCO,0,High-Quality Compounders,1.530120362998471
+HINDUNILVR,0,High-Quality Compounders,1.5246940226895953
+ICICIBANK,0,High-Quality Compounders,1.0857426793784775
+ICICIGI,0,High-Quality Compounders,1.7785985565406706
+ICICIPRULI,0,High-Quality Compounders,2.9730731277051925
+INDIGO,0,High-Quality Compounders,2.8451070213216036
+INDUSINDBK,0,High-Quality Compounders,1.4397639288646609
+INFY,1,Defensive Dividend Payers,0.2882630731037716
+IOC,1,Defensive Dividend Payers,0.37438974161748606
+IRCTC,1,Defensive Dividend Payers,1.020566789831194
+IRFC,0,High-Quality Compounders,1.8453036339452027
+ITC,1,Defensive Dividend Payers,0.7646612101183037
+JINDALSTEL,1,Defensive Dividend Payers,0.1265698514083667
+JIOFIN,2,Value Cyclicals,1.6858739404357614e-07
+JSWENERGY,1,Defensive Dividend Payers,1.0358497741250992
+JSWSTEEL,1,Defensive Dividend Payers,0.2158932215720992
+KOTAKBANK,0,High-Quality Compounders,0.5680272622603469
+LICI,1,Defensive Dividend Payers,2.150429275435131
+LODHA,1,Defensive Dividend Payers,0.2441064176236258
+LT,1,Defensive Dividend Payers,0.32608223273363257
+LTIM,1,Defensive Dividend Payers,0.43491410413432124
+M&M,1,Defensive Dividend Payers,0.3487230506341912
+MARUTI,1,Defensive Dividend Payers,0.34786255914371916
+MOTHERSON,1,Defensive Dividend Payers,0.5819519919222157
+NAUKRI,1,Defensive Dividend Payers,0.38844183670417476
+NESTLEIND,1,Defensive Dividend Payers,0.37919198468296633
+NHPC,1,Defensive Dividend Payers,1.5015206810911603
+NTPC,1,Defensive Dividend Payers,0.4347786865968466
+ONGC,1,Defensive Dividend Payers,0.12293786724069566
+PFC,0,High-Quality Compounders,1.904885093479682
+PIDILITIND,1,Defensive Dividend Payers,0.48652718513276627
+PNB,1,Defensive Dividend Payers,1.0844645179176702
+POWERGRID,0,High-Quality Compounders,1.5070126797046697
+RECLTD,0,High-Quality Compounders,1.4090146999697102
+RELIANCE,1,Defensive Dividend Payers,0.09065818464182414
+SBILIFE,1,Defensive Dividend Payers,0.7637310067824145
+SBIN,1,Defensive Dividend Payers,1.42771014639629
+SHREECEM,1,Defensive Dividend Payers,0.26751060091328976
+SHRIRAMFIN,1,Defensive Dividend Payers,1.2160606391145443
+SIEMENS,1,Defensive Dividend Payers,1.4874407303702366
+SUNPHARMA,1,Defensive Dividend Payers,1.156740061581794
+TATACONSUM,1,Defensive Dividend Payers,1.6860663631566033
+TATAMOTORS,1,Defensive Dividend Payers,0.2687645061710446
+TATAPOWER,1,Defensive Dividend Payers,0.6257843510569738
+TATASTEEL,1,Defensive Dividend Payers,0.3890802061674374
+TCS,1,Defensive Dividend Payers,0.3314118874789375
+TECHM,1,Defensive Dividend Payers,0.4992653074891456
+TITAN,1,Defensive Dividend Payers,0.7463456569661571
+TORNTPHARM,1,Defensive Dividend Payers,0.44385782887112196
+TRENT,1,Defensive Dividend Payers,0.18691832571250674
+TVSMOTOR,1,Defensive Dividend Payers,1.1329405461442963
