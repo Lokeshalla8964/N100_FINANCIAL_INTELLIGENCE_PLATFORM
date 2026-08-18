@@ -2,3 +2,10 @@ pandas
 numpy
 matplotlib
 openpyxl
+fastapi
+uvicorn
+streamlit
+scikit-learn
+seaborn
+pytest
+httpx2
